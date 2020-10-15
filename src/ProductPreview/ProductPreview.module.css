@@ -1,0 +1,34 @@
+.ProductPreview {
+  width: 100%;
+  position: relative;
+}
+.TimeData,
+.HeartbeatData {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 48px;
+}
+.HeartbeatData > i {
+  color: red;
+  animation: beat 1s infinite;
+}
+.HeartbeatData > p {
+  margin-top: 16px;
+}
+@keyframes beat {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.3, 1.3);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
+.ProductPreview > img {
+  width: 100%;
+}
