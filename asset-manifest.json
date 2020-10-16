@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactproductpage-app/static/css/main.82d7d1e7.chunk.css",
+    "main.js": "/reactproductpage-app/static/js/main.74306fdc.chunk.js",
+    "main.js.map": "/reactproductpage-app/static/js/main.74306fdc.chunk.js.map",
+    "runtime-main.js": "/reactproductpage-app/static/js/runtime-main.269bb670.js",
+    "runtime-main.js.map": "/reactproductpage-app/static/js/runtime-main.269bb670.js.map",
+    "static/js/2.c1cf57eb.chunk.js": "/reactproductpage-app/static/js/2.c1cf57eb.chunk.js",
+    "static/js/2.c1cf57eb.chunk.js.map": "/reactproductpage-app/static/js/2.c1cf57eb.chunk.js.map",
+    "index.html": "/reactproductpage-app/index.html",
+    "precache-manifest.041589c07be45929e155ef42d2237c11.js": "/reactproductpage-app/precache-manifest.041589c07be45929e155ef42d2237c11.js",
+    "service-worker.js": "/reactproductpage-app/service-worker.js",
+    "static/css/main.82d7d1e7.chunk.css.map": "/reactproductpage-app/static/css/main.82d7d1e7.chunk.css.map",
+    "static/js/2.c1cf57eb.chunk.js.LICENSE": "/reactproductpage-app/static/js/2.c1cf57eb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.269bb670.js",
+    "static/js/2.c1cf57eb.chunk.js",
+    "static/css/main.82d7d1e7.chunk.css",
+    "static/js/main.74306fdc.chunk.js"
+  ]
+}
